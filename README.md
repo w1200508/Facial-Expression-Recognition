@@ -2,7 +2,7 @@
 
 ![fright](https://github.com/Splending6/Facial-Expression-Recognition/raw/master/fright.png)
 
-![excitement](https://github.com/Splending6/Facial-Expression-Recognition/blob/master/excitement.png)
+![excitement](https://github.com/Splending6/Facial-Expression-Recognition/raw/master/excitement.png)
 
 项目介绍：[Divcap智能睡帽](https://www.behance.net/gallery/97360473/Divcap) 
 
