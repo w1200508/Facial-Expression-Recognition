@@ -1,6 +1,6 @@
 # Facial Expression Recognition
 
-![fright](https://github.com/Splending6/Facial-Expression-Recognition/blob/master/fright.png)
+![fright](https://github.com/Splending6/Facial-Expression-Recognition/raw/master/fright.png)
 
 ![excitement](https://github.com/Splending6/Facial-Expression-Recognition/blob/master/excitement.png)
 
